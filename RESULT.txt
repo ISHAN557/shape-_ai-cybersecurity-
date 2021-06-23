@@ -1,0 +1,1 @@
+-------------------------------------------------------------/nWeather Stats for - SRINAGAR  || 23 Jun 2021 | 09:58:30 AM-------------------------------------------------------------/nCurrent temperature is: 28.77 deg c/nCurrent weather desc  : clear sky/nCurrent Humidity      : 28 %/nCurrent wind speed    : 0.89 kmph/n
